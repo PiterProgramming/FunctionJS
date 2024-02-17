@@ -1,0 +1,14 @@
+body, html {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7; /* Color de fondo suave */
+}
+
+#imagenSemaforo {
+    width: 150px; /* Ancho considerable para la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    display: block; /* Para aplicar márgenes automáticamente */
+}
